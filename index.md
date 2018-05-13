@@ -4,13 +4,7 @@ banner_image: "/uploads/2018/05/13/20150318-IMG_3692.jpg"
 layout: landing-page
 heading: Kathleen Hill
 partners: []
-services:
-- description: Snapshots of life in Central Florida
-  heading: Instagram
-  icon: ''
-- description: Living my dream working in Orlando
-  heading: LinkedIn
-  icon: ''
+services: []
 sub_heading: A Hoosier Girl in a Disney World
 textline: Marketing Strategy & Project Management
 hero_button:
