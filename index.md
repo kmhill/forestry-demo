@@ -5,10 +5,9 @@ layout: landing-page
 heading: Kathleen Hill
 partners: []
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+- description: Snapshots of life in Central Florida
+  heading: Instagram
+  icon: ''
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
@@ -25,3 +24,4 @@ menu:
     url: "/"
     weight: 1
 ---
+[@KathleenMHill](https://www.instagram.com/kathleenmhill/)
