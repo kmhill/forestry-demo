@@ -8,10 +8,9 @@ services:
 - description: Snapshots of life in Central Florida
   heading: Instagram
   icon: ''
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: Living my dream working in Orlando
+  heading: LinkedIn
+  icon: ''
 sub_heading: A Hoosier Girl in a Disney World
 textline: Marketing Strategy & Project Management
 hero_button:
@@ -24,4 +23,6 @@ menu:
     url: "/"
     weight: 1
 ---
-[@KathleenMHill](https://www.instagram.com/kathleenmhill/)
+[@KathleenMHill](https://www.instagram.com/kathleenmhill/) on Instagram
+
+[Kathleen Hill ](https://www.linkedin.com/in/kmdenta/)on LinkedIn
