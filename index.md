@@ -13,11 +13,8 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Marketing Strategy & Project Management
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+sub_heading: A Hoosier Girl in a Disney World
+textline: Marketing Strategy & Project Management
 hero_button:
   text: Learn more
   href: "/about"
