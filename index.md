@@ -2,11 +2,8 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+heading: Kathleen Hill
+partners: []
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
@@ -16,7 +13,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Marketing Strategy & Project Management
 textline: |
   Belkirk College of Engineering
 
