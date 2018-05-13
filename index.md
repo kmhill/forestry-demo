@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/05/13/20150318-IMG_3692.jpg"
 layout: landing-page
 heading: Kathleen Hill
 partners: []
