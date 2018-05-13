@@ -2,22 +2,36 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: About Kathleen
+sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: Kathleen Hill
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
+    url: "/about/"
     weight: 3
+  navigation:
+    identifier: _about
+    url: "/about/"
+    weight: 2
 ---
+Hello! My name is Katie Denta. I am fascinated by strategic communications, the umbrella of **digital marketing**, **multimedia** **storytelling**, **online journalism**, **photography** and **social media**.  After four years of honing my writing, editing, design and photography  skills, I graduated from Indiana University-Bloomington with a Bachelors  of Arts in Journalism.
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+ 
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+My hobbies include reading, writing, traveling, taking pictures and  attempting to crochet. I also love cooking, scrapbooking and all things  Disney.
+
+ 
+
+Speaking of Disney, I’m currently working as a Marketing Strategy Associate Manager supporting Disney Sports. I love being a part of the  Disney Cast Member family. I admire Walt Disney for his unique ability  to tell timeless stories that engage generations of audiences.
+
+ 
+
+I want to pursue a career that challenges me to grow as a storyteller, photographer, writer and leader.
+
+ 
+
+**Join me (**[**@onceuponapark**](http://bit.ly/1F47dl8)**) on Instagram as I explore the most magical place on Earth through my camera lens.**
